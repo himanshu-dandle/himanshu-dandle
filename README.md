@@ -1,52 +1,70 @@
-## Hello, I'm Himanshu Dandle!
+Hello, I'm Himanshu Dandle!
+Senior Data Scientist | Azure Certified | Machine Learning Expert
+Welcome to my GitHub profile! I am a Senior Data Scientist with over 5 years of expertise in machine learning, deep learning, and big data analytics, complemented by 13+ years in database development and ETL workflows. I specialize in crafting scalable machine learning models and delivering end-to-end data science solutions that drive actionable business insights.
 
-##Senior Data Scientist | Azure Certified | Machine Learning Expert
+As a Microsoft Azure Certified Professional, I bring a strong skill set in technologies such as Python, PySpark, Azure Databricks, and TensorFlow. My passion lies in solving complex problems and enabling organizations to unlock the full potential of their data.
 
-Welcome to my GitHub profile! I am a Senior Data Scientist with over 5 years of experience in **machine learning, deep learning**, and **big data analytics**. With 18+ years of experience in **database development** and **ETL**, I specialize in delivering data-driven solutions to solve complex business problems. I'm passionate about building scalable machine learning models and deploying end-to-end data science projects.
+Feel free to explore my repositories and connect with me to collaborate on exciting projects!
 
-I hold multiple **Microsoft Azure certifications**, and I am skilled in a wide range of technologies, including **Python, PySpark, Azure Databricks, and TensorFlow**.
+🚀 Skills & Expertise
+Programming
+  Python, R, SQL, PL/SQL, Shell Scripting
+Machine Learning & AI
+  Libraries & Frameworks: Scikit-learn, TensorFlow, Keras, PySpark
+Techniques: NLP (spaCy, BERT, Sentiment Analysis), Time Series Forecasting (ARIMA, LSTM), Ensemble Models (Random Forest, Gradient Boosting), Clustering (K-means, DBSCAN)
+Deep Learning
+  CNNs, RNNs, LSTM, Transformers
+Cloud Platforms
+  Microsoft Azure: Azure Data Factory, Synapse, Databricks, Azure ML
+  Google Cloud Platform (GCP): BigQuery, Vertex AI
+  AWS (S3, EC2)
+Data Engineering
+  Apache Spark, ETL Pipelines, Delta Lake, Oracle, SQL Server, MySQL, PostgreSQL
+Visualization & Reporting
+  Power BI, Tableau, Matplotlib, Seaborn
+DevOps & Automation
+  Docker, Kubernetes, MLflow, Azure DevOps, CI/CD Pipelines
+Soft Skills
+  Communication, Leadership, Problem-Solving, Agile Methodologies (Scrum, SAFe)
 
-Feel free to explore my repositories and connect with me!
+🔥 Featured Projects
+1. Customer Churn Prediction
+Description: Predict customer churn using ensemble methods like Random Forest and Gradient Boosting.
+Technologies: Python, scikit-learn, pandas, matplotlib.
+Results: Achieved 20% improvement in churn prediction accuracy.
+
+2. TV Viewership Forecasting
+Description: Built ARIMA and LSTM-based models to predict TV viewership trends.
+Technologies: Python, TensorFlow, Keras, Azure Databricks, Delta Lake.
+Results: Improved forecasting accuracy by 15%, enabling better ad placement strategies.
+
+3. Text Summarization with Transformers
+Description: Leveraged Hugging Face Transformers to summarize large documents.
+Technologies: Python, Hugging Face, Streamlit.
+Results: Improved document comprehension and readability by 30%.
+
+4. Sentiment Analysis System
+Description: Developed an NLP-based system to classify customer reviews as positive, neutral, or negative.
+Technologies: Python, spaCy, Flask.
+Results: Enhanced customer feedback classification accuracy by 25%.
+
+5. LLM-Powered Question Answering System
+Description: Built a system using GPT-3 APIs and RAG pipelines to provide context-based answers.
+Technologies: Python, OpenAI API, LangChain.
+Results: Delivered 85% accuracy in contextually relevant answers.
+
+
+
 
 ---
 
-## 🚀 Skills & Expertise
+🏆 Certifications
+Microsoft Azure Data Scientist Associate (DP-100)
+Microsoft Azure Data Engineer Associate (DP-203)
+Microsoft Azure AI Fundamentals
+Google Cloud Professional Machine Learning Engineer (In Progress)
+SAFe 4
 
-- **Programming Languages**: Python, R, SQL, PL/SQL, Shell Scripting
-- **Machine Learning & AI**: Scikit-learn, TensorFlow, Keras, PySpark, NLP (spaCy, BERT), Time Series Forecasting, Clustering (K-means, DBSCAN)
-- **Deep Learning**: CNNs, RNNs, LSTM
-- **Cloud Platforms**: Microsoft Azure (Data Factory, Synapse, Databricks, ML), AWS (S3, EC2)
-- **Data Engineering**: Apache Spark, Data Warehousing, ETL, Oracle, SQL Server, MySQL
-- **Visualization**: Power BI, Matplotlib, Seaborn
-- **DevOps & Automation**: Docker, Kubernetes, MLflow, Azure DevOps, CI/CD Pipelines
-- **Soft Skills**: Communication, Leadership, Problem-Solving, Agile (Scrum, SAFe)
-
----
-
-## 🔥 Featured Projects
-
-### [Customer Churn Prediction](https://github.com/himanshu-dandle/Customer_Churn_Prediction)
-A machine learning project to predict customer churn using ensemble methods such as Random Forest and Gradient Boosting. The project involves detailed data preprocessing, feature selection, and model evaluation, with visualizations to highlight key features.
-
-### [House Price Prediction](https://github.com/himanshu-dandle/house-price-prediction)
-A regression-based model designed to predict house prices using various features of residential homes. The project includes data cleaning, exploratory data analysis, and the deployment of predictive models.
-
-### Price Optimization Model
-Developed a price optimization model using Python for a tea packaging company. The model helps the company optimize prices based on demand and competition, improving overall profitability.
-
-### Sales Forecasting
-Built a time series forecasting model to predict future sales trends using Python, focusing on data preprocessing, feature engineering, and evaluation to improve forecasting accuracy.
-
----
-
-## 🏆 Certifications
-
-- Microsoft Azure Data Scientist Associate (DP-100)
-- Microsoft Azure Data Engineer (DP-203)
-- Microsoft Azure AI Fundamentals
-- SAFe 4
-
----
 
 ## 📫 Let's Connect!
 
