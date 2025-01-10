@@ -6,15 +6,15 @@ As a Microsoft Azure Certified Professional, I bring a strong skill set in techn
 
 Feel free to explore my repositories and connect with me to collaborate on exciting projects!
 
-🚀 Skills & Expertise
-Programming: Python, SQL, R, Shell Scripting
-Machine Learning & AI: Scikit-learn, TensorFlow, Keras, XGBoost, Random Forest, LSTM, Time Series Forecasting
-NLP: spaCy, NLTK, Transformers, Sentiment Analysis, GPT-based models
-Cloud Platforms: Azure (ADF, Databricks, Synapse, Azure ML), GCP (BigQuery, Vertex AI, Dataflow)
-Data Engineering: PySpark, Apache Spark, Delta Lake, ETL, Data Pipelines
-Visualization: Power BI, Tableau, Matplotlib, Seaborn
-Generative AI: RAG, Prompt Engineering, Hugging Face Transformers, GPT APIs
-DevOps & MLOps: Docker, Kubernetes, CI/CD, Azure DevOps
+## 🚀 Skills & Expertise
+**Programming**: Python, SQL, R  
+**Machine Learning**: Scikit-learn, TensorFlow, Keras, XGBoost, Random Forest, LSTM  
+**NLP**: spaCy, NLTK, Transformers, Sentiment Analysis, GPT-based models  
+**Cloud Platforms**: Azure (ADF, Databricks, Synapse), GCP (BigQuery, Vertex AI)  
+**Data Engineering**: PySpark, Apache Spark, Delta Lake, ETL, Data Pipelines  
+**Visualization**: Power BI, Tableau, Matplotlib, Seaborn  
+**Generative AI**: RAG, Prompt Engineering, GPT APIs  
+**DevOps**: Docker, Kubernetes, CI/CD, Azure DevOps  
 
 🔥 Featured Projects
 1. Customer Churn Prediction
@@ -41,8 +41,6 @@ Results: Enhanced customer feedback classification accuracy by 25%.
 Description: Built a system using GPT-3 APIs and RAG pipelines to provide context-based answers.
 Technologies: Python, OpenAI API, LangChain.
 Results: Delivered 85% accuracy in contextually relevant answers.
-
-
 
 ---
 
