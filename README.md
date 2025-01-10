@@ -7,11 +7,11 @@ As a Microsoft Azure Certified Professional, I bring a strong skill set in techn
 Feel free to explore my repositories and connect with me to collaborate on exciting projects!
 
 🚀 Skills & Expertise
-Programming Languages: Python, SQL, R, Shell Scripting
+Programming: Python, SQL, R, Shell Scripting
 Machine Learning & AI: Scikit-learn, TensorFlow, Keras, XGBoost, Random Forest, LSTM, Time Series Forecasting
-NLP: spaCy, NLTK, Transformers, Text Preprocessing, Sentiment Analysis, GPT-based models
-Cloud Platforms: Microsoft Azure (ADF, Databricks, Synapse, Azure ML), GCP (BigQuery, Vertex AI, Dataflow)
-Data Engineering: PySpark, Apache Spark, Delta Lake, Data Pipelines, ETL
+NLP: spaCy, NLTK, Transformers, Sentiment Analysis, GPT-based models
+Cloud Platforms: Azure (ADF, Databricks, Synapse, Azure ML), GCP (BigQuery, Vertex AI, Dataflow)
+Data Engineering: PySpark, Apache Spark, Delta Lake, ETL, Data Pipelines
 Visualization: Power BI, Tableau, Matplotlib, Seaborn
 Generative AI: RAG, Prompt Engineering, Hugging Face Transformers, GPT APIs
 DevOps & MLOps: Docker, Kubernetes, CI/CD, Azure DevOps
