@@ -7,29 +7,18 @@ As a Microsoft Azure Certified Professional, I bring a strong skill set in techn
 Feel free to explore my repositories and connect with me to collaborate on exciting projects!
 
 🚀 Skills & Expertise
-Programming
-  Python, R, SQL, PL/SQL, Shell Scripting
-Machine Learning & AI
-  Libraries & Frameworks: Scikit-learn, TensorFlow, Keras, PySpark
-Techniques: NLP (spaCy, BERT, Sentiment Analysis), Time Series Forecasting (ARIMA, LSTM), Ensemble Models (Random Forest, Gradient Boosting), Clustering (K-means, DBSCAN)
-Deep Learning
-  CNNs, RNNs, LSTM, Transformers
-Cloud Platforms
-  Microsoft Azure: Azure Data Factory, Synapse, Databricks, Azure ML
-  Google Cloud Platform (GCP): BigQuery, Vertex AI
-  AWS (S3, EC2)
-Data Engineering
-  Apache Spark, ETL Pipelines, Delta Lake, Oracle, SQL Server, MySQL, PostgreSQL
-Visualization & Reporting
-  Power BI, Tableau, Matplotlib, Seaborn
-DevOps & Automation
-  Docker, Kubernetes, MLflow, Azure DevOps, CI/CD Pipelines
-Soft Skills
-  Communication, Leadership, Problem-Solving, Agile Methodologies (Scrum, SAFe)
+Programming Languages: Python, SQL, R, Shell Scripting
+Machine Learning & AI: Scikit-learn, TensorFlow, Keras, XGBoost, Random Forest, LSTM, Time Series Forecasting
+NLP: spaCy, NLTK, Transformers, Text Preprocessing, Sentiment Analysis, GPT-based models
+Cloud Platforms: Microsoft Azure (ADF, Databricks, Synapse, Azure ML), GCP (BigQuery, Vertex AI, Dataflow)
+Data Engineering: PySpark, Apache Spark, Delta Lake, Data Pipelines, ETL
+Visualization: Power BI, Tableau, Matplotlib, Seaborn
+Generative AI: RAG, Prompt Engineering, Hugging Face Transformers, GPT APIs
+DevOps & MLOps: Docker, Kubernetes, CI/CD, Azure DevOps
 
 🔥 Featured Projects
 1. Customer Churn Prediction
-Description: Predict customer churn using ensemble methods like Random Forest and Gradient Boosting.
+Description: Predicted customer churn using ensemble methods like Random Forest and Gradient Boosting.
 Technologies: Python, scikit-learn, pandas, matplotlib.
 Results: Achieved 20% improvement in churn prediction accuracy.
 
@@ -38,7 +27,7 @@ Description: Built ARIMA and LSTM-based models to predict TV viewership trends.
 Technologies: Python, TensorFlow, Keras, Azure Databricks, Delta Lake.
 Results: Improved forecasting accuracy by 15%, enabling better ad placement strategies.
 
-3. Text Summarization with Transformers
+3. Text Summarization with Transformers (Coming Soon)
 Description: Leveraged Hugging Face Transformers to summarize large documents.
 Technologies: Python, Hugging Face, Streamlit.
 Results: Improved document comprehension and readability by 30%.
@@ -48,11 +37,10 @@ Description: Developed an NLP-based system to classify customer reviews as posit
 Technologies: Python, spaCy, Flask.
 Results: Enhanced customer feedback classification accuracy by 25%.
 
-5. LLM-Powered Question Answering System
+5. LLM-Powered Question Answering System (Coming Soon)
 Description: Built a system using GPT-3 APIs and RAG pipelines to provide context-based answers.
 Technologies: Python, OpenAI API, LangChain.
 Results: Delivered 85% accuracy in contextually relevant answers.
-
 
 
 
